@@ -2,4 +2,7 @@ for i=0; i<=5; i++{
 console.log(Hellow world)
 }
 
+
 include java
+ void main
+
